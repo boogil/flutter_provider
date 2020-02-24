@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
-import 'myHomePage.dart';
+import 'ui/homePage.dart';
 import 'data/CounterBloc.dart';
 
 void main() => runApp(MyApp());
